@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+langchain
+tqdm
+pydantic
+langchain-community 
+langchain-cohere
+langchain
+firebase_admin
+beautifulsoup4
+tiktoken
+chromadb
+pysqlite3-binary>=0.5.0
